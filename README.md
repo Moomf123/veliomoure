@@ -12,7 +12,7 @@ Currently in high school, I'm driven by the goal of becoming an accountant devel
 
 ## 🚀 Language
 
-Proficient in HTML, JavaScript, and Arduino, I am currently leaarning computer science and programming using Python! These languages not only serve as tools for crafting digital experiences but also as a foundation for my future endeavors.
+Proficient in HTML and JavaScript, I am currently learning computer science and programming using Python! These languages not only serve as tools for crafting digital experiences but also as a foundation for my future endeavors.
 
 ## 📚 Beyond the Code
 
