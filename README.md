@@ -20,4 +20,4 @@ When I'm not on my computer, immersed in bits and bytes, you can find me delving
 
 ## 📬 Contact
 
-I'm always open to connecting with fellow enthusiasts, whether it's to discuss the latest programming trends or exchanging recommendations for chilling novels. Feel free to reach out to me at f.veliomoure@outlook.com
+I'm always open to connecting with fellow enthusiasts, whether it's to discuss the latest programming trends or exchanging recommendations for chilling novels. Feel free to reach out to me at f.veliomoure@outlook.com.
